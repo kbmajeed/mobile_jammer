@@ -20,3 +20,4 @@ Successuly Jammed Blackberry mobile:
 ![](jammed.PNG)  
 
 
+(NB: public use of mobile phone jammers is often illegal)
