@@ -1,4 +1,4 @@
-# mobile_jammer
+# Mobile Phone Jammer
 
 ## Introduction
 <p style="text-align: justify">
